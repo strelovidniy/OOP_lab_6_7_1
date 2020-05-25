@@ -9,7 +9,7 @@ namespace OOP_lab_6_7_1
             ReadTable();
         }
 
-        private void ReadTable()
+        public void ReadTable()
         {
             Console.Write("Введiть данi про студентiв групи.\nКiлькiсть студентiв: ");
 
